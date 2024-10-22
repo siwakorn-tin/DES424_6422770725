@@ -19,4 +19,4 @@ This is a test program for DES424 (your student ID).
 
 ## Run Program
 
-- xx xxx
+- xx xxxx
